@@ -1,0 +1,15 @@
+Request: GET  status_code: 200  IP: 10.10.34.22 page: abc.html
+Request: GET  status_code: 200  IP: 10.10.34.20 page: abc.html
+Request: GET  status_code: 300  IP: 10.10.34.24 page: abc.html
+Request: GET  status_code: 300  IP: 10.10.34.23 page: abc.html
+Request: GET  status_code: 300  IP: 10.10.34.26 page: abc.html
+Request: GET  status_code: 400  IP: 10.10.34.28 page: abc.html
+Request: GET  status_code: 400  IP: 10.10.34.29 page: abc.html
+Request: GET  status_code: 400  IP: 10.10.34.21 page: abc.html
+Request: GET  status_code: 200  IP: 10.10.34.24 page: abc.html
+Request: GET  status_code: 200  IP: 10.10.34.22 page: abc.html
+Request: GET  status_code: 200  IP: 10.10.34.27 page: abc.html
+Request: GET  status_code: 300  IP: 10.10.34.20 page: abc.html
+Request: GET  status_code: 200  IP: 10.10.34.29 page: abc.html
+Request: GET  status_code: 100  IP: 10.10.34.22 page: abc.html
+Request: GET  status_code: 500  IP: 10.10.34.21 page: xyz.html
